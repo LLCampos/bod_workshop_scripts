@@ -1,0 +1,301 @@
+ # de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity | value
+#id=1
+#text=Trilateral Retinoblastoma Eric Kraemer , M . D .
+1-1	Trilateral	O	
+1-2	Retinoblastoma	B-RADLEX	
+1-3	Eric	O	
+1-4	Kraemer	O	
+1-5	,	O	
+1-6	M	O	
+1-7	.	O	
+1-8	D	O	
+1-9	.	O	
+
+#id=2
+#text=Delilah Burrowes , M . D . Children ' s Memorial Hospital Abstract History of left retinoblastoma , now with new presentation of hydrocephalus .
+2-1	Delilah	O	
+2-2	Burrowes	O	
+2-3	,	O	
+2-4	M	O	
+2-5	.	O	
+2-6	D	O	
+2-7	.	O	
+2-8	Children	O	
+2-9	'	O	
+2-10	s	O	
+2-11	Memorial	O	
+2-12	Hospital	O	
+2-13	Abstract	O	
+2-14	History	O	
+2-15	of	O	
+2-16	left	B-RADLEX	
+2-17	retinoblastoma	B-RADLEX	
+2-18	,	O	
+2-19	now	O	
+2-20	with	O	
+2-21	new	B-RADLEX	
+2-22	presentation	O	
+2-23	of	O	
+2-24	hydrocephalus	B-RADLEX	
+2-25	.	O	
+
+#id=3
+#text=Keywords retinoblastoma , pineal tumor , pineal gland , hydrocephalus , ct , mri Publication Date : 2004 - 06 - 11 History History of left retinoblastoma , now with new presentation of hydrocephalus .
+3-1	Keywords	O	
+3-2	retinoblastoma	B-RADLEX	
+3-3	,	O	
+3-4	pineal	O	
+3-5	tumor	B-RADLEX	
+3-6	,	O	
+3-7	pineal	B-RADLEX	
+3-8	gland	I-RADLEX|B-RADLEX	
+3-9	,	O	
+3-10	hydrocephalus	B-RADLEX	
+3-11	,	O	
+3-12	ct	B-RADLEX	
+3-13	,	O	
+3-14	mri	B-RADLEX	
+3-15	Publication	O	
+3-16	Date	O	
+3-17	:	O	
+3-18	2004	O	
+3-19	-	O	
+3-20	06	O	
+3-21	-	O	
+3-22	11	O	
+3-23	History	O	
+3-24	History	B-RADLEX	
+3-25	of	O	
+3-26	left	B-RADLEX	
+3-27	retinoblastoma	B-RADLEX	
+3-28	,	O	
+3-29	now	O	
+3-30	with	O	
+3-31	new	B-RADLEX	
+3-32	presentation	O	
+3-33	of	O	
+3-34	hydrocephalus	B-RADLEX	
+3-35	.	O	
+
+#id=4
+#text=Findings CT : Orbital prosthesis and new hydrocephalus with midline mass MR : Enhancing pineal mass Diagnosis Trilateral retinoblastoma Differential Germinoma , Teratoma , pineal blastoma , astrocytoma , mets .
+4-1	Findings	B-RADLEX	
+4-2	CT	B-RADLEX	
+4-3	:	O	
+4-4	Orbital	B-RADLEX	
+4-5	prosthesis	I-RADLEX|B-RADLEX	
+4-6	and	O	
+4-7	new	B-RADLEX	
+4-8	hydrocephalus	B-RADLEX	
+4-9	with	O	
+4-10	midline	B-RADLEX	
+4-11	mass	B-RADLEX	
+4-12	MR	O	
+4-13	:	O	
+4-14	Enhancing	O	
+4-15	pineal	O	
+4-16	mass	B-RADLEX	
+4-17	Diagnosis	B-RADLEX	
+4-18	Trilateral	O	
+4-19	retinoblastoma	B-RADLEX	
+4-20	Differential	O	
+4-21	Germinoma	B-RADLEX	
+4-22	,	O	
+4-23	Teratoma	B-RADLEX	
+4-24	,	O	
+4-25	pineal	B-RADLEX	
+4-26	blastoma	O	
+4-27	,	O	
+4-28	astrocytoma	B-RADLEX	
+4-29	,	O	
+4-30	mets	O	
+4-31	.	O	
+
+#id=5
+#text=Discussion Retinoblastoma is the most common primary intraocular tumor of childhood , and should be a primary consideration in the differential diagnosis of leukocoria .
+5-1	Discussion	B-RADLEX	
+5-2	Retinoblastoma	B-RADLEX	
+5-3	is	O	
+5-4	the	O	
+5-5	most	O	
+5-6	common	O	
+5-7	primary	O	
+5-8	intraocular	B-RADLEX	
+5-9	tumor	B-RADLEX	
+5-10	of	O	
+5-11	childhood	O	
+5-12	,	O	
+5-13	and	O	
+5-14	should	O	
+5-15	be	O	
+5-16	a	O	
+5-17	primary	O	
+5-18	consideration	O	
+5-19	in	O	
+5-20	the	O	
+5-21	differential	O	
+5-22	diagnosis	B-RADLEX	
+5-23	of	O	
+5-24	leukocoria	B-RADLEX	
+5-25	.	O	
+
+#id=6
+#text=Intraocular calcifications in a child are indicative of retinoblastoma until proven otherwise , and the other causes of leukocoria ( i . e .
+6-1	Intraocular	B-RADLEX	
+6-2	calcifications	B-RADLEX	
+6-3	in	O	
+6-4	a	O	
+6-5	child	B-RADLEX	
+6-6	are	O	
+6-7	indicative	O	
+6-8	of	O	
+6-9	retinoblastoma	B-RADLEX	
+6-10	until	O	
+6-11	proven	O	
+6-12	otherwise	O	
+6-13	,	O	
+6-14	and	O	
+6-15	the	O	
+6-16	other	O	
+6-17	causes	O	
+6-18	of	O	
+6-19	leukocoria	B-RADLEX	
+6-20	(	O	
+6-21	i	O	
+6-22	.	O	
+6-23	e	O	
+6-24	.	O	
+
+#id=7
+#text=PHPV , Coat ' s dz , Toxocara , ROP ) are rarely if ever calcified .
+7-1	PHPV	O	
+7-2	,	O	
+7-3	Coat	O	
+7-4	'	O	
+7-5	s	O	
+7-6	dz	O	
+7-7	,	O	
+7-8	Toxocara	O	
+7-9	,	O	
+7-10	ROP	B-RADLEX	
+7-11	)	O	
+7-12	are	O	
+7-13	rarely	O	
+7-14	if	O	
+7-15	ever	O	
+7-16	calcified	B-RADLEX	
+7-17	.	O	
+
+#id=8
+#text=The tumors are thought to arise from primitive photoreceptor cells , and 25 % are bilateral or multifocal .
+8-1	The	O	
+8-2	tumors	O	
+8-3	are	O	
+8-4	thought	O	
+8-5	to	O	
+8-6	arise	O	
+8-7	from	O	
+8-8	primitive	O	
+8-9	photoreceptor	O	
+8-10	cells	B-RADLEX	
+8-11	,	O	
+8-12	and	O	
+8-13	25	O	
+8-14	%	O	
+8-15	are	O	
+8-16	bilateral	B-RADLEX	
+8-17	or	O	
+8-18	multifocal	B-RADLEX	
+8-19	.	O	
+
+#id=9
+#text=Invasion of the optic nerve portends a poor prognosis .
+9-1	Invasion	B-RADLEX	
+9-2	of	O	
+9-3	the	O	
+9-4	optic	B-RADLEX	
+9-5	nerve	I-RADLEX|B-RADLEX	
+9-6	portends	O	
+9-7	a	O	
+9-8	poor	B-RADLEX	
+9-9	prognosis	O	
+9-10	.	O	
+
+#id=10
+#text=10 % are hereditary , associated with a deletion on chromosome 13q .
+10-1	10	O	
+10-2	%	O	
+10-3	are	O	
+10-4	hereditary	B-RADLEX	
+10-5	,	O	
+10-6	associated	O	
+10-7	with	O	
+10-8	a	O	
+10-9	deletion	O	
+10-10	on	O	
+10-11	chromosome	O	
+10-12	13q	O	
+10-13	.	O	
+
+#id=11
+#text=These patients are at risk for developing pineal tumors , extracranial sarcomas , and melanoma .
+11-1	These	O	
+11-2	patients	O	
+11-3	are	O	
+11-4	at	O	
+11-5	risk	O	
+11-6	for	O	
+11-7	developing	O	
+11-8	pineal	O	
+11-9	tumors	O	
+11-10	,	O	
+11-11	extracranial	B-RADLEX	
+11-12	sarcomas	B-RADLEX	
+11-13	,	O	
+11-14	and	O	
+11-15	melanoma	B-RADLEX	
+11-16	.	O	
+
+#id=12
+#text=When a patient with retinoblastoma develops a pineal tumor , the term trilateral retinoblastoma is used .
+12-1	When	O	
+12-2	a	O	
+12-3	patient	B-RADLEX	
+12-4	with	O	
+12-5	retinoblastoma	B-RADLEX	
+12-6	develops	O	
+12-7	a	O	
+12-8	pineal	B-RADLEX	
+12-9	tumor	B-RADLEX	
+12-10	,	O	
+12-11	the	O	
+12-12	term	O	
+12-13	trilateral	O	
+12-14	retinoblastoma	B-RADLEX	
+12-15	is	O	
+12-16	used	O	
+12-17	.	O	
+
+#id=13
+#text=References http :// www . med . uc . edu / neurorad / webpage / fya . html 3 images 
+13-1	References	O	
+13-2	http	O	
+13-3	://	O	
+13-4	www	O	
+13-5	.	O	
+13-6	med	O	
+13-7	.	O	
+13-8	uc	O	
+13-9	.	O	
+13-10	edu	O	
+13-11	/	O	
+13-12	neurorad	O	
+13-13	/	O	
+13-14	webpage	O	
+13-15	/	O	
+13-16	fya	O	
+13-17	.	O	
+13-18	html	O	
+13-19	3	O	
+13-20	images	O	
+
